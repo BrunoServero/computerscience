@@ -1,0 +1,42 @@
+Árvores B+
+
+- Desenvolvida pensando em buscas por range em um banco de dados
+exemplo:
+    retorne todos os registros com chave entre 20 e 100
+
+- muitos bancos de dados são construidos usando o mecanismo de arvore B+, tal como: 
+    SQL Sever e Oracle
+
+
+    Caracteristicas
+
+    - Todas as chaves são mantidas em folhas
+    - As chaves são repetidas em nós-folha formando um indice
+    as folhas são ligadas oferencendo um caminho sequencial ( lista duplamente ligada encadeada) para percorer as chaves
+
+    ex: 
+
+                                   98
+                 36  53  81                     104  119
+    8 17 36 | 43 53| 56 65 72 81|  102 104 | 107 112 119 | 125 127
+
+
+
+    Inserção:
+        A inserção de uma chave em uma arvore b+ é semelhante à arvore B: Ocorre sempre no nó folha.
+
+        Passos:
+
+        - Localizar a folha dentro da qual a chave deve ser inserida
+        - Localizar a posição de inserção dentro da folha
+        - inserir a chave
+        - Se, após a inserção, a folha ficar completa, realizar a cisão da pagina.
+                * a maior chave da esquerda é copiada para o nó par.
+        ex: considere uma arvore com minimo de 2 chaves e max de 4 chaves ( m  =5 -> qu)antidade max de filhos)
+
+        Inserir 85,60,52,70,58,37,54,110,230,56
+
+        Exercicio:
+            Em uma arvore m = 5, inserir os valores: 50,60,30,40,20,23,25,31,70,80,90,100
+
+        30|40| 50 | 60 | 
