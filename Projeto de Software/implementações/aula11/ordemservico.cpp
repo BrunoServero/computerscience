@@ -7,13 +7,6 @@ class ordemServico{
         int dataExp;
         int dataConclusao;
 
-        int getDataConclusao() {
-        	return this->dataConclusao;
-        }
-        void setDataConclusao(int dataConclusao) {
-        	this->dataConclusao = dataConclusao;
-        }
-
     public:
         long int getnumOs() {
         	return this->numOs;
