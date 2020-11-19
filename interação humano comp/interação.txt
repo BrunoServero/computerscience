@@ -1,0 +1,17 @@
+T2 - Experiências de interação
+
+1. Pense numa aplicação que você teve dificuldade em utilizar e interagir, ex.: Websites, aplicativos, softwares, etc. e responda:
+1.1. Qual foi a ação que pretendia executar?
+Renovação ou alteração de bilhete unico
+1.2. Qual foi a dificuldade?
+O site da SPtrans é sempre complicado de navegar e confuso para conseguir chegar na pagina certa.
+1.3. O que você faria para melhorar a interface da aplicação para ajudar o usuário na execução de suas tarefas ao interagir com a aplicação?
+Links mais claros, design mais intuitivo e menos poluido de informações. Uma area com duvidas recorrentes e videos tutoriais.
+
+2. Pense numa aplicação que você não teve dificuldade em utilizar e interagir, ex.: Websites, aplicativos, softwares, etc. e responda:
+2.1. Por que foi fácil interagir com esta aplicação?
+Porque todo o visual do site era bem intuitivo e os elementos eram harmonicos
+
+2.2. Quais elementos da interface ajudam o usuário o usuário na execução de suas tarefas ao interagir com a aplicação?
+
+Visual clean, opções bem explicadas, intuitividade na navegação e area de duvidas expostas caso alguem tenha dificuldades

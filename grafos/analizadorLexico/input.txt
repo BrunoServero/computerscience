@@ -1,0 +1,23 @@
+WHILE
+AND
+BEGIN
+BOOLEAN
+AND
+CHAR
+DO
+ELSE END FALSE IF INTEGER MOD OR PROGRAM REAL THEN TRUE WRITE
+1.2
+( ) . ;
+a
+c
+MOD a <= <9 >= 3>2 != (teste)
+A bacaxi
+var1
++ - * /
+#Comentario 1
+var2
+{Comentario 2 WHILE
+saushausuhasa
+ewewq
+eeew}
+AND

@@ -1,0 +1,16 @@
+Análise do caso do VOO 965
+
+
+1. Leia o artigo O Voo 965 e responda:
+1a - qual foi o problema de usabilidade detectado na interface?
+
+O sistema de autocompletion do FMS se baseia na opção mais proxima da localização do avião, por isso o avião foi para o destino ROMEO e nao para o ROZO, sem necessitar de qualquer confirmação ou checagem.
+
+1b - qual foi a consequência deste problema de usabilidade?
+
+A consequência foi a seleção de uma rota errada e o choque do avião com uma montanha
+
+1c - qual(is) mudanças você faria na interface para evitar este problema?
+
+Inseriria um pop-up de confirmação do destino selecionado, para que o piloto ao digitar o local ter que confirmar o seu destino. E caso houvessem mais de um destino com a mesma letra o sistema deveria indicar ao piloto que existem mais opções.
+

@@ -1,0 +1,57 @@
+{Linha: 1, WHILE, WHILE}
+{Linha: 2, AND, AND}
+{Linha: 3, BEGIN, BEGIN}
+{Linha: 4, BOOLEAN, BOOLEAN}
+{Linha: 5, AND, AND}
+{Linha: 6, CHAR, CHAR}
+{Linha: 7, DO, DO}
+{Linha: 8, ELSE, ELSE}
+{Linha: 8, END, END}
+{Linha: 8, FALSE, FALSE}
+{Linha: 8, IF, IF}
+{Linha: 8, INTEGER, INTEGER}
+{Linha: 8, MOD, MOD}
+{Linha: 8, OR, OR}
+{Linha: 8, PROGRAM, PROGRAM}
+{Linha: 8, REAL, REAL}
+{Linha: 8, THEN, THEN}
+{Linha: 8, TRUE, TRUE}
+{Linha: 8, WRITE, WRITE}
+{Linha: 9, 1.2, REAL}
+{Linha: 10, (, ABRE_PAR}
+{Linha: 10, ), FECHA_PAR}
+{Linha: 10, ., PONTO}
+{Linha: 10, ), PONTO_VIRGULA}
+{Linha: 11, a, CARACTERE}
+{Linha: 12, c, CARACTERE}
+{Linha: 13, MOD, MOD}
+{Linha: 13, a, CARACTERE}
+{Linha: 13, <=, MEI}
+{Linha: 13, =, IG}
+{Linha: 13, <, ME}
+{Linha: 13, 9, NUMERO_INTEIRO}
+{Linha: 13, >=, MAI}
+{Linha: 13, =, IG}
+{Linha: 13, 3, NUMERO_INTEIRO}
+{Linha: 13, >, MA}
+{Linha: 13, 2, NUMERO_INTEIRO}
+{Linha: 13, !=, DI}
+{Linha: 13, =, IG}
+{Linha: 13, (, ABRE_PAR}
+{Linha: 13, teste, IDENTIFICADOR}
+{Linha: 13, ), FECHA_PAR}
+{Linha: 14, A, CARACTERE}
+{Linha: 14, bacaxi, IDENTIFICADOR}
+{Linha: 15, var1, IDENTIFICADOR}
+{Linha: 16, +, ADICAO}
+{Linha: 16, -, SUBTRACAO}
+{Linha: 16, *, MULTIPLICACAO}
+{Linha: 16, /, DIVISAO}
+{Linha: 17, #Comentario 1, COMENTARIO}
+{Linha: 18, var2, IDENTIFICADOR}
+{Linha: 19, {Comentario 2 WHILE
+saushausuhasa
+ewewq
+eeew}, COMENTARIO}
+{Linha: 23, AND, AND}
+{Linha: 23, EOS}
